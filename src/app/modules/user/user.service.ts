@@ -1,5 +1,1 @@
-import { Request } from "express";
-
-const createStudent= async(req:Request)=>{
-    
-}
+const createStudent = async (req: Request) => {};
